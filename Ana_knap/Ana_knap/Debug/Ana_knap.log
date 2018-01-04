@@ -1,0 +1,8 @@
+﻿  Ana_knap.cpp
+c:\users\mathi\documents\visual studio 2015\projects\machine learning\ana_knap\ana_knap\ana_knap.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\mathi\documents\visual studio 2015\projects\machine learning\ana_knap\ana_knap\ana_knap.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\mathi\documents\visual studio 2015\projects\machine learning\ana_knap\ana_knap\ana_knap.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\mathi\documents\visual studio 2015\projects\machine learning\ana_knap\ana_knap\ana_knap.cpp(68): warning C4101: 'bitFile': unreferenced local variable
+c:\users\mathi\documents\visual studio 2015\projects\machine learning\ana_knap\ana_knap\ana_knap.cpp(63): warning C4101: 'bitColor': unreferenced local variable
+  Ana_knap.vcxproj -> C:\Users\mathi\Documents\Visual Studio 2015\Projects\Machine Learning\Ana_knap\Debug\Ana_knap.exe
+  Ana_knap.vcxproj -> C:\Users\mathi\Documents\Visual Studio 2015\Projects\Machine Learning\Ana_knap\Debug\Ana_knap.pdb (Full PDB)
